@@ -82,3 +82,6 @@ Create a dashboard in tableau by choosing appropriate chart types and metrics us
     c. Explore the top 2,500 locations where the percentage of households with a second mortgage is the highest and percent ownership is above 10 percent. Visualize using geo-map.
     d. Heat map for correlation matrix.
     e. Pie chart to show the population distribution across different types of places (village, urban, town etc.)
+
+
+Dataset link -> https://github.com/Simplilearn-Edu/Data-Science-Capstone-Projects/blob/master/Project_1.zip
